@@ -2,8 +2,8 @@ pipeline {
     agent any
 
     environment {
-        APP_NAME = 'new-app'
-        REPO_URL = "https://github.com/MohamedMagdy840/jenkins-repo.git"
+        APP_NAME = 'test-app'
+        REPO_URL = "https://github.com/nadadew20/test-app.git"
     }
 
     stages {
